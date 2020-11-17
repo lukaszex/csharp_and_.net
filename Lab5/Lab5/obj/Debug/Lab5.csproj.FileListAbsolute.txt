@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab5\Lab5\obj\Debug\Lab5.pdb

@@ -1,0 +1,5 @@
+H:\Studia\C# i .NET\Lukasz\Lukasz\bin\Debug\Lukasz.exe
+H:\Studia\C# i .NET\Lukasz\Lukasz\bin\Debug\Lukasz.pdb
+H:\Studia\C# i .NET\Lukasz\Lukasz\obj\Debug\Lukasz.csproj.CoreCompileInputs.cache
+H:\Studia\C# i .NET\Lukasz\Lukasz\obj\Debug\Lukasz.exe
+H:\Studia\C# i .NET\Lukasz\Lukasz\obj\Debug\Lukasz.pdb

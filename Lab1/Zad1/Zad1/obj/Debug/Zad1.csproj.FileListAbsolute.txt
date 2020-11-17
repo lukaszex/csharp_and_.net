@@ -1,0 +1,6 @@
+H:\Studia\C# i .NET\Zad1\Zad1\bin\Debug\Zad1.exe
+H:\Studia\C# i .NET\Zad1\Zad1\bin\Debug\Zad1.pdb
+H:\Studia\C# i .NET\Zad1\Zad1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
+H:\Studia\C# i .NET\Zad1\Zad1\obj\Debug\Zad1.csproj.CoreCompileInputs.cache
+H:\Studia\C# i .NET\Zad1\Zad1\obj\Debug\Zad1.exe
+H:\Studia\C# i .NET\Zad1\Zad1\obj\Debug\Zad1.pdb

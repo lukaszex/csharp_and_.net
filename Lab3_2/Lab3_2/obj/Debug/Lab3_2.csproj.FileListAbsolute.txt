@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab3_2\Lab3_2\obj\Debug\Lab3_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab3_2\Lab3_2\obj\Debug\Lab3_2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab3_2\Lab3_2\bin\Debug\Lab3.exe.config
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab3_2\Lab3_2\bin\Debug\Lab3.exe
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab3_2\Lab3_2\bin\Debug\Lab3.pdb
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab3_2\Lab3_2\obj\Debug\Lab3.exe
+C:\Users\HP\Desktop\chwytak\C# i .NET\Lab3_2\Lab3_2\obj\Debug\Lab3.pdb
