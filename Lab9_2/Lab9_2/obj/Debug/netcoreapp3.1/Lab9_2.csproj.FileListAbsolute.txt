@@ -1,0 +1,13 @@
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\bin\Debug\netcoreapp3.1\Lab9_2.exe
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\bin\Debug\netcoreapp3.1\Lab9_2.deps.json
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\bin\Debug\netcoreapp3.1\Lab9_2.runtimeconfig.json
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\bin\Debug\netcoreapp3.1\Lab9_2.runtimeconfig.dev.json
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\bin\Debug\netcoreapp3.1\Lab9_2.dll
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\bin\Debug\netcoreapp3.1\Lab9_2.pdb
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\obj\Debug\netcoreapp3.1\Lab9_2.csprojAssemblyReference.cache
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\obj\Debug\netcoreapp3.1\Lab9_2.AssemblyInfoInputs.cache
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\obj\Debug\netcoreapp3.1\Lab9_2.AssemblyInfo.cs
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\obj\Debug\netcoreapp3.1\Lab9_2.csproj.CoreCompileInputs.cache
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\obj\Debug\netcoreapp3.1\Lab9_2.dll
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\obj\Debug\netcoreapp3.1\Lab9_2.pdb
+H:\Studia\C# i .NET\Lab9_2\Lab9_2\obj\Debug\netcoreapp3.1\Lab9_2.genruntimeconfig.cache
